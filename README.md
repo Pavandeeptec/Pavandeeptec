@@ -1,5 +1,8 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (PAVANDEEP B)|https://raymond.li)"/>](https://raymond.li/)
-<h3 align="center">A passionate frontend developer from India</h3>
+
+![pavandeep_animated](https://github.com/user-attachments/assets/ba7ae723-c424-48d5-955f-d25383dac922)
+
+<h3 align="center">A passionate fronten![Uploading pavandeep_animated.gif…]()
+d developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavandeep&label=Profile%20views&color=0e75b6&style=flat" alt="pavandeep" /> </p>
 
