@@ -1,8 +1,7 @@
 
-![pavandeep_animated](https://github.com/user-attachments/assets/ba7ae723-c424-48d5-955f-d25383dac922)
+![text](https://github.com/user-attachments/assets/6f50cd98-1d94-44c9-942a-142a1e11051e)
 
-<h3 align="center">A passionate fronten![Uploading pavandeep_animated.gif…]()
-d developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavandeep&label=Profile%20views&color=0e75b6&style=flat" alt="pavandeep" /> </p>
 
